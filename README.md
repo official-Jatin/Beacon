@@ -1,4 +1,4 @@
-🔦 Beacon — The ultimate career hub for students. Expert-curated roadmaps for MERN, AI/ML, Web3, Data Science, Cybersecurity & more — built by top community members with ROI scores, daily opportunity alerts & Proof of Work profiles 
+( on going )🔦 Beacon — The ultimate career hub for students. Expert-curated roadmaps for MERN, AI/ML, Web3, Data Science, Cybersecurity & more — built by top community members with ROI scores, daily opportunity alerts & Proof of Work profiles 
 
 ### Stop wasting years. Find your path. Trust the community. 
 
