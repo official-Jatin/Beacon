@@ -1,0 +1,1 @@
+{\n  "compilerOptions": {\n    "composite": true,\n    "skipLibCheck": true,\n    "esModuleInterop": true,\n    "allowSyntheticDefaultImports": true\n  },\n  "include": ["src"],\n  "exclude": ["node_modules", "dist"]\n}
